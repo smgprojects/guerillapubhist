@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<customMapSource>
+	<name>Georectified Ottawa Map 2</name>
+	<minZoom>0</minZoom>
+	<maxZoom>18</maxZoom>
+	<tileType>png</tileType>
+	<tileUpdate>None</tileUpdate>
+	<url>http://mapwarper.net/maps/tile/9083/{$z}/{$x}/{$y}.png</url>
+	<backgroundColor>#000000</backgroundColor>
+</customMapSource>
